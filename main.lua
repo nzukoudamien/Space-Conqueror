@@ -1,8 +1,8 @@
 -- =============================================================================
 -- 1. SETUP AND IMPORTS
 -- =============================================================================
-local tools = require("Projets.Space Conqueror.outils")
-local factory = require("Projets.Space Conqueror.vaisseau")
+local tools = require("outils")
+local factory = require("vaisseau")
 
 -- =============================================================================
 -- 2. GAME SETTINGS
