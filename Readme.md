@@ -8,8 +8,7 @@ A 2D text-based space shooter game written in **pure Lua** using Object-Oriented
 1. [Developer Presentation](#1-developer-presentation)
 2. [Why This Project?](#2-why-this-project)
 3. [How to Play & Commands](#3-how-to-play--commands)
-4. [Community & Engine Vision](#4-community--engine-vision)
-5. [License](#5-license)
+4. [License](#4-license)
 
 ---
 
@@ -45,14 +44,7 @@ f + Enter : Shoot Laser
 
 Enter (without typing anything) : Skip turn / Stay still
 
-4. Community & Engine Vision
-This is a fully community-driven open-source project. You are encouraged to clone it, break it, and modify it however you like!
-
-The Vision: My goal is to evolve this project from a single game into a lightweight text-based 2D game engine. It will allow other developers to quickly build their own command-line games in Lua by leveraging the built-in matrix renderer and hybrid OOP factories.
-
-Want to contribute? Feel free to open an Issue or submit a Pull Request!
-
-5. License
+4. License
 This project is licensed under the MIT License - meaning you can freely use, modify, distribute, and build upon this code for both personal and commercial projects.
 
 Plaintext
